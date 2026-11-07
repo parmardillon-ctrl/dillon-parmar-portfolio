@@ -16,3 +16,5 @@ html{font-size:17px}
 .hero-art .hero-note{right:-7%;bottom:7%;padding:9px 12px;background:#142438;color:#d5e3e2;border:1px solid rgba(255,255,255,.18);border-radius:2px;transform:rotate(-4deg)}
 @media(max-width:800px){.hero-art{width:38vw;right:6vw}}
 @media(max-width:560px){.hero-art{width:45vw;right:0;top:185px;transform:none;opacity:.95}.hero-art .hero-note{font-size:.7rem;right:0;bottom:3%}.hero-copy{width:100%}}
+
+.hero-art .hero-note{right:8px;max-width:170px}
