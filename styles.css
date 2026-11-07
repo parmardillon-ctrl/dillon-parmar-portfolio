@@ -18,3 +18,5 @@ html{font-size:17px}
 @media(max-width:560px){.hero-art{width:45vw;right:0;top:185px;transform:none;opacity:.95}.hero-art .hero-note{font-size:.7rem;right:0;bottom:3%}.hero-copy{width:100%}}
 
 .hero-art .hero-note{right:8px;max-width:170px}
+
+.hero-art .hero-note{display:none}
